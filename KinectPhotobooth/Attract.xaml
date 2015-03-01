@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="KinectPhotobooth.Attract"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:KinectPhotobooth"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image HorizontalAlignment="Left" Height="242" Margin="976,516,0,0" VerticalAlignment="Top" Width="380"/>
+        <TextBlock HorizontalAlignment="Left" Height="289" Margin="127,104,0,0" TextWrapping="Wrap" Text="sssss" VerticalAlignment="Top" Width="1106" FontSize="64"/>
+
+    </Grid>
+</Page>
